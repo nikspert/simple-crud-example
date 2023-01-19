@@ -10,7 +10,7 @@
 1. Update `knexfile.js` with your Postgres DB values for migrations
 2. Run `npm install knex -g`
 3. Run `knex migrate:latest` to run migrations
-4. For complete knex migrations reference visit [migrations with next](https://knexjs.org/guide/migrations.html#migration-cli)
+4. For complete knex migrations reference visit [migrations with Knex](https://knexjs.org/guide/migrations.html#migration-cli)
 
 ## Launching the app
 1. Use `.env` file to adjust envoiroment variables like mongo connection string to your MongoDB, choose provider 
